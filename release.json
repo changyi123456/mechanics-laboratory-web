@@ -1,0 +1,11 @@
+{
+  "name": "物理造物所",
+  "version": "1.0.0",
+  "builtAt": "2026-09-16T02:12:18.811Z",
+  "labs": [
+    "mechanics",
+    "optics",
+    "modern",
+    "semiconductor"
+  ]
+}

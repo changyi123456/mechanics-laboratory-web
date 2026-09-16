@@ -1,0 +1,1 @@
+import{g as e,m as t}from"./index-B7YOUGhP.js";function n(n){let r=n.params.tilt*Math.PI/180,i=n.params.yaw*Math.PI/180;return{position:t(n.position,e([-.075,0,-.025],n.quaternion)),direction:e([Math.sin(r)*Math.cos(i),Math.sin(r)*Math.sin(i),Math.cos(r)],n.quaternion)}}export{n as t};
